@@ -1,0 +1,56 @@
+a:hover{
+    text-decoration: none;
+    color: black;   
+}
+.welcome_templante{
+    background: url(../img/font_comer.png);
+    background-size: cover;
+}
+.welcome-titulo{
+    font-weight: bold;
+    color: white;
+}
+.welcome-store{
+    font-weight: 100;
+}
+.welcome--btn{
+    color: white;
+    background: #fe6b07;
+    border-radius: 5px;
+    padding: 0.5em 2em;
+    text-decoration: none;
+}
+.welcome--btn:hover{
+    color: white;
+    text-decoration: none;
+}
+.cont_img img{
+    width: 300px;
+}
+.mo-section__white{
+    padding: 1em 2em;
+    background: white;
+    border-radius: 8px;
+}
+.plantilla img{
+    width: 178px;
+}
+.plantilla-information{
+    margin: 0.5em 0 0 0;
+}
+.plantilla-titulo{
+    font-size: 16px;
+    font-weight: bold;
+}
+.plantilla-descripcion{
+    margin: -1em 0 0 0;
+    font-size: 13px;
+    font-weight: 100;
+}
+.check-templante{
+    padding: 0.5em 1em;
+    color:black;
+}
+.check-templante:hover{
+    background: #ecf0f1;
+}
